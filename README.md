@@ -1,16 +1,16 @@
 Hi, I'm Aslam 👋
 
-## 🎯 Data Analyst Aspirant  
+🎯 Data Analyst Aspirant  
 📊 Skilled in Excel, SQL, Power BI  
 🚀 Currently Learning Python  
 
 
-## 🧠 About Me
+🧠 About Me
 I love solving business problems using data.
 Currently building projects to land a data analyst internship.
 
 
-## 🛠 Skills
+🛠 Skills
 - Excel
 - SQL
 - Power BI
