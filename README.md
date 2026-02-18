@@ -17,9 +17,5 @@ Currently building projects to land a data analyst internship.
 - Python (Learning)
 
 
-## 📈 GitHub Stats
-![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-
-## 🔗 Connect With Me
+🔗 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/aslam-mhd-8b05532a8/)
