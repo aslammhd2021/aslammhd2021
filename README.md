@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aslam 👋
 
-<!--
-**aslammhd2021/aslammhd2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst Aspirant  
+📊 Skilled in Excel, SQL, Power BI  
+🚀 Currently Learning Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I love solving business problems using data.
+Currently building projects to land a data analyst internship.
+
+---
+
+## 🛠 Skills
+- Excel
+- SQL
+- Power BI
+- Python (Learning)
+
+---
+
+## 📈 GitHub Stats
+![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/aslam-mhd-8b05532a8/)
